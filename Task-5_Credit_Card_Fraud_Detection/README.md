@@ -35,9 +35,10 @@ This project focuses on detecting fraudulent credit card transactions using mach
      ```
 
 2. **Dataset**:
+   -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
    - Ensure the dataset file `creditcard.csv` is placed in the same directory as the notebook.
 
-3. **Run the Notebook**:
+4. **Run the Notebook**:
    - Open the `Card_Fraud_Detection.ipynb` file in Jupyter Notebook or any compatible IDE.
    - Execute the cells sequentially to reproduce the results.
 
